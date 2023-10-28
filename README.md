@@ -20,6 +20,6 @@ Here's where all my projects will go.
 
 [dataviz](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/a8d1ec08f45c80f7b2b3d56cf499578ae110b13e/dataviz1)
 
-[final project](final-project)
+[final project](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/e7e42778a09036a829c8b1ad0a493b4298e7de22/final-project)
 
 
