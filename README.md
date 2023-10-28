@@ -4,7 +4,7 @@ link to the live site https://meeeeeeeei28.github.io/Mei-Portfolio/
 
 # About me
 Hi, my name is Mei. I'm a graduate student stduying Product Design and will graduate this December.
-![profile photo](Profile-photo.JPG)
+<img src="Profile-photo.JPG" width="200"/>
 Before I enrolled CMU, I worked as a B2B sales, consultant, and strategist to solve various companies' business problems.
 I'm seeking the full-time opportnity such as Product Designer, UX Designer, and Design Strategis where I can utilize my strategic thinking and UX design skills.
 
