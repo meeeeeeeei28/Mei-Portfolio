@@ -1,6 +1,5 @@
 # Mei-Portfolio
 This is my public portfolio for Telling Story with Data at CMU.
-![Peach!](Peach.jpeg)
 link to the live site https://meeeeeeeei28.github.io/Mei-Portfolio/
 
 # About me
