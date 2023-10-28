@@ -19,6 +19,7 @@ Also, I'd like to practice design critique because it is a very good way to deve
 Here's where all my projects will go.
 
 [dataviz1](dataviz1)
+[dataviz](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/a8d1ec08f45c80f7b2b3d56cf499578ae110b13e/dataviz1)
 
 [final project](final-project)
 
