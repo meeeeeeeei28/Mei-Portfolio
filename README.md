@@ -18,7 +18,9 @@ Also, I'd like to practice design critique because it is a very good way to deve
 # Portfolio
 Here's where all my projects will go.
 
-[dataviz: government debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/ff00f1328d8c090e0eff41beecbc0158c2e965ab/dataviz-government-debt)
+[dataviz: government debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/ee737f2094e06db342a50cf001fd0a0753e48975/dataviz-goevrnment-debt.md)
+
+[dataviz: government-debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/ff00f1328d8c090e0eff41beecbc0158c2e965ab/dataviz-government-debt)
 
 [dataviz](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/a8d1ec08f45c80f7b2b3d56cf499578ae110b13e/dataviz1)
 
