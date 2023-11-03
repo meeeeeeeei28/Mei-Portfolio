@@ -1,6 +1,6 @@
 # Mei-Portfolio
 This is my public portfolio for Telling Story with Data at CMU.
-link to the live site https://meeeeeeeei28.github.io/Mei-Portfolio/
+link to the live site from [here](https://meeeeeeeei28.github.io/Mei-Portfolio/)
 
 # About me
 Hi, my name is Mei. I'm a graduate student studying Product Design and will graduate this December.
