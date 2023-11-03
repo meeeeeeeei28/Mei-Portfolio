@@ -3,12 +3,12 @@ This is my public portfolio for Telling Story with Data at CMU.
 link to the live site https://meeeeeeeei28.github.io/Mei-Portfolio/
 
 # About me
-Hi, my name is Mei. I'm a graduate student stduying Product Design and will graduate this December.
+Hi, my name is Mei. I'm a graduate student studying Product Design and will graduate this December.
 
 <img src="Profile-photo.JPG" width="200"/>
 
-Before I enrolled CMU, I worked as a B2B sales, consultant, and strategist to solve various companies' business problems.
-I'm seeking the full-time opportnity such as Product Designer, UX Designer, and Design Strategis where I can utilize my strategic thinking and UX design skills.
+Before I enrolled at CMU, I worked as a B2B sales, consultant, and strategist to solve various companies' business problems.
+I'm seeking full-time opportunities such as Product Designer, UX Designer, and Design Strategist where I can utilize my strategic thinking and UX design skills.
 
 
 # What I hope to learn
@@ -18,7 +18,7 @@ Also, I'd like to practice design critique because it is a very good way to deve
 # Portfolio
 Here's where all my projects will go.
 
-[dataviz: government debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/5902732f6fbd5d422dcaa48901982bae7fcdc744/dataviz-goevrnment-debt.md)
+[dataviz: government debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/658033861bda9eda80b2371db98a7c2e75db51e6/dataviz-goevrnment-debt.md)
 
 [dataviz](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/a8d1ec08f45c80f7b2b3d56cf499578ae110b13e/dataviz1)
 
