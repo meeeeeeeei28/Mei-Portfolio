@@ -55,8 +55,10 @@ Based on the critique, I sketched two charts.
 While the First one shows the comparison of each ingredient, the second one emphasizes the peanuts.
 
 chart #1
+<img src="Protein-chart-1.jpg" width="500"/>
 
 chart #2
+<img src="Protein-chart-2.jpg" width="500"/>
 
 Below is the feedback I got.
 
@@ -75,11 +77,13 @@ Considering the feedback from round 1, I created two different charts again.
 In addition to outside of the class, I got a chance to receive feedback in class.
 
 chart #3
+<img src="Protein-chart-3.png" width="500"/>
 
 Regarding chart #3, I took into account the feedback about the amount of each ingredient.
 Considering the groceries cost, I thought $10 would be appropriate. And I believe that $10 would give the audience a sense of how much amount of ingredients each bar shows.
 
 chart #4
+<img src="Protein-chart-4.jpg" width="500"/>
 
 This chart shows the relationship between cost and amount to get 20 grams of protein.
 I converted each ingredient's unit into grams so that I could plot all of them on the same chart.
