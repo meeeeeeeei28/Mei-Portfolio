@@ -20,6 +20,8 @@ Here's where all my projects will go.
 
 [dataviz: government debt](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/59b9703bef94be8461806c1fc11f32724c921c49/dataviz-goevrnment-debt.md)
 
+[dataviz: protein-1](/dataviz-protein.md)
+
 [dataviz: protein](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/ce5fd3818c4f78237e780ecae07d4da2f5728e8c/dataviz-protein.md)
 
 [dataviz](https://github.com/meeeeeeeei28/Mei-Portfolio/blob/a8d1ec08f45c80f7b2b3d56cf499578ae110b13e/dataviz1)
