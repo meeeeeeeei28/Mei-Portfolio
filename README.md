@@ -18,7 +18,7 @@ Also, I'd like to practice design critique because it is a very good way to deve
 # Portfolio
 Here's where all my projects will go.
 
-[dataviz: government debt](/dataviz-government-debt.md)
+[dataviz: government debt](/dataviz-goevrnment-debt.md)
 
 [dataviz: protein-](/dataviz-protein.md)
 
