@@ -15,12 +15,15 @@
 2. 5,799 startups were created in the US in 2022 and over 72,500 startups are in the US now. [source](https://www.zippia.com/answers/how-many-startups-were-created-in-2022/)
 
 3. Obviously, the US has the largest number of startups in the world and VC invested about $245B, which is the largest amount of money, in the US. [source: number of startups](https://www.startupranking.com/countries), [source:amount of investment](https://dealroom.co/guides/global)
+
 <img src="number-of-starups.jpg" width="500"/>
 
 4. However, there is an interesting fact. If we look at the per capita funding, the ranking looks very different. Estonia grabs our attention. One takeaway from the information is that India and China, two of the largest global venture capital markets, score rather low on the per capita metric. This indicates that while they have flourishing startup economies, they don’t encompass a large share of the population. [source: funding](https://news.crunchbase.com/startups/countries-most-startup-investment/), [source: population](https://worldpopulationreview.com/countries)
+
 <img src="ranking-startups.jpg" width="500"/>
 
 5. Also, there is an evaluation score for each country's market, and Estonia ranks 3 in the emerging ranking. [source](https://startupgenome.com/reports/gser2023) *I used some of the data from this report and calculated them to get a score for each country.
+
 <img src="emerging-market-startups.png" width="500"/>
 
 6. So, why does Estonia attract many prospective startups?
