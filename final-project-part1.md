@@ -30,6 +30,11 @@
 8. You should check out Estonia's startup communities from [here](https://ecosystem.startupestonia.ee/custom.startups/f/all_slug_locations/anyof_estonia/data_type/anyof_Verified/launch_year_min/anyof_2012?)
 
 
+## Method and medium
+- I'm planning to use Shorthand to make my data visualization.
+- I would like to incorporate some tips and techniques written in the textbook such as creating tension.
+
+
 
 
 
