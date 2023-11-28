@@ -24,5 +24,7 @@ Here's where all my projects will go.
 
 [final project: part1](/final-project-part1.md)
 
+[final project: part2](/final-project-part2.md)
+
 
 
