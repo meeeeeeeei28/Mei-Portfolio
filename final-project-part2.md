@@ -4,7 +4,7 @@
 People who are interested in startups, especially who are considering starting a business
 
 ## Storyboard/Wireframe (Shorthand)
-[This is a preview link](https://preview.shorthand.com/2YqEOTEyR2F8gui4)
+[This is a preview link](https://preview.shorthand.com/o6Z2OweMcg2Iw1Uy)
 
 *Since I was not able to publish it (the error message showed up), I'm using a review link. There is a chance that some of changes I mention about in the last section will be already done when you review it.
 
