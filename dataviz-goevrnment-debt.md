@@ -1,3 +1,6 @@
+| [home page](https://meeeeeeeei28.github.io/Mei-Portfolio/) | [dataviz: government debt](/dataviz-goevrnment-debt.md) | [dataviz: protein](/dataviz-protein.md) | [final project: part1](/final-project-part1.md) | [final project: part2](/final-project-part2.md) | [final project: part3](/final-project-part3.md) |
+
+
 # Data visualization for Government debt-to-GDP ratio
 
 ## Dataset
