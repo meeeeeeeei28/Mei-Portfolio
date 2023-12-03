@@ -1,3 +1,7 @@
+| [home page](https://meeeeeeeei28.github.io/Mei-Portfolio/) | [dataviz: government debt](/dataviz-goevrnment-debt.md) | [dataviz: protein](/dataviz-protein.md) | [final project: part1](/final-project-part1.md) | [final project: part2](/final-project-part2.md) | [final project: part3](/final-project-part3.md) |
+
+
+
 # Mei-Portfolio
 This is my public portfolio for Telling Story with Data at CMU.
 link to the live site from [here](https://meeeeeeeei28.github.io/Mei-Portfolio/)
